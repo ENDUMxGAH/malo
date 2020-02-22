@@ -1,0 +1,6 @@
+org\unitec\invierno\Estatus.class
+org\unitec\invierno\ControladorHola.class
+org\unitec\invierno\ControladorAlumno.class
+org\unitec\invierno\InviernoApplication.class
+org\unitec\invierno\AlumnoRepositorio.class
+org\unitec\invierno\Alumno.class
